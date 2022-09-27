@@ -64,7 +64,7 @@ htmlstring += `
 <div class="col">
 
     <div class="card" id="card">
-      <img  src="static/${products[i].image}" class="product-img"
+      <img  src="Static/${products[i].image}" class="product-img"
         src="">
       
       <div class="card-body">
