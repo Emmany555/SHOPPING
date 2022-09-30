@@ -1,5 +1,43 @@
 
 const products = [
+
+{  
+  name:'Spaghetti', 
+  image:'https://images.app.goo.gl/Dpr4cYQqaHnP5ig6A',  
+  price:'300',
+  id:'1',
+  stock:'60',
+  contact:'08124494667',  
+},
+
+{  
+  name:'Rice', 
+  image:'https://images.app.goo.gl/4V8dvD7rNjDZKec59',  
+  price:'34500',
+  id:'1',
+  stock:'8',
+  contact:'08124494667',  
+},
+
+{  
+  name:'Rice', 
+  image:'https://images.app.goo.gl/ix7JJM2UNt5HpApv5',  
+  price:'33000',
+  id:'1',
+  stock:'8',
+  contact:'08124494667',  
+},
+
+
+{  
+  name:'Rice', 
+  image:'https://images.app.goo.gl/KtYihR93n5m1ngiCA',  
+  price:'35000',
+  id:'1',
+  stock:'8',
+  contact:'08124494667',  
+},
+
   {  
   name:'Rice', 
   image:'specials-1.png',  
