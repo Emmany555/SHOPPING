@@ -40,49 +40,49 @@ const products = [
 
   {  
   name:'Rice', 
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'450000000000',
   id:'1',
   stock:'4748',
   contact:'08124494667',  
 },
 {  
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'45',
   id:'1',
   stock:'23',
   contact:'08124494667',  
 },
 {  
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'45',
   id:'1',
   stock:'23',
   contact:'08124494667',  
 },
 {  
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'45',
   id:'1',
   stock:'23',
   contact:'08124494667',  
 },
 {  
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'45',
   id:'1',
   stock:'23',
   contact:'08124494667',  
 },
 {  
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'45',
   id:'1',
   stock:'23',
   contact:'08124494667',  
 },
 {  
-  image:'specials-1.png',  
+  image:'Static/specials-1.png',  
   price:'45',
   id:'1',
   stock:'2836',
@@ -102,7 +102,7 @@ htmlstring += `
 <div class="col">
 
     <div class="card" id="card">
-      <img  src="Static/${products[i].image}" class="product-img"
+      <img  src="${products[i].image}" class="product-img"
         src="">
       
       <div class="card-body">
