@@ -218,7 +218,7 @@ margin-bottom: 5rem;
 
 @media (max-width:700px) {
   .card{
-    width: 13rem;
+    width: 10rem;
     margin: 0.2rem;
     font-size:smaller;
 
