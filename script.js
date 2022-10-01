@@ -12,7 +12,7 @@ const products = [
 
 {  
   name:'Rice', 
-  image:'https://images.app.goo.gl/4V8dvD7rNjDZKec59',  
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgN4RE5wW9GaCHsWEFtzI8mo6pR1Rj9KbKOw&usqp=CAU',  
   price:'34500',
   id:'1',
   stock:'8',
@@ -21,7 +21,7 @@ const products = [
 
 {  
   name:'Rice', 
-  image:'https://images.app.goo.gl/ix7JJM2UNt5HpApv5',  
+  image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgN4RE5wW9GaCHsWEFtzI8mo6pR1Rj9KbKOw&usqp=CAU',  
   price:'33000',
   id:'1',
   stock:'8',
@@ -31,7 +31,7 @@ const products = [
 
 {  
   name:'Rice', 
-  image:'https://images.app.goo.gl/KtYihR93n5m1ngiCA',  
+  image:'https://www.google.com/imgres?imgurl=https%3A%2F%2F24hoursmarket.com%2Fwp-content%2Fuploads%2F2019%2F11%2Fbagofrice1.jpg&imgrefurl=https%3A%2F%2F24hoursmarket.com%2Fproduct%2Frice-bag%2F&tbnid=cU4UeFiwTlxy2M&vet=1&docid=9mL9lRYpkU6NkM&w=600&h=600&source=sh%2Fx%2Fim',  
   price:'35000',
   id:'1',
   stock:'8',
