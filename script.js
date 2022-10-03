@@ -41,12 +41,13 @@ const products = [
   {  
   name:'Rice', 
   image:'Static/specials-1.png',  
-  price:'450000000000',
+  price:'45000',
   id:'1',
   stock:'4748',
   contact:'08124494667',  
 },
 {  
+  name:'Rice', 
   image:'Static/specials-1.png',  
   price:'45',
   id:'1',
@@ -54,6 +55,7 @@ const products = [
   contact:'08124494667',  
 },
 {  
+  name:'Rice', 
   image:'Static/specials-1.png',  
   price:'45',
   id:'1',
@@ -61,6 +63,7 @@ const products = [
   contact:'08124494667',  
 },
 {  
+  name:'Rice', 
   image:'Static/specials-1.png',  
   price:'45',
   id:'1',
@@ -68,6 +71,7 @@ const products = [
   contact:'08124494667',  
 },
 {  
+  name:'Rice', 
   image:'Static/specials-1.png',  
   price:'45',
   id:'1',
@@ -75,6 +79,7 @@ const products = [
   contact:'08124494667',  
 },
 {  
+  name:'Rice', 
   image:'Static/specials-1.png',  
   price:'45',
   id:'1',
@@ -82,6 +87,7 @@ const products = [
   contact:'08124494667',  
 },
 {  
+  name:'Rice', 
   image:'Static/specials-1.png',  
   price:'45',
   id:'1',
